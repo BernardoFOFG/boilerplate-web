@@ -13,7 +13,7 @@
     import { Home } from '~/lib/pages/home';
     export default Home;
 ```
-  2. Localize a pasta "pages" (responsável pela criação de views)
+  2. Localize a pasta "pages" em lib (responsável pela criação de views)
      - /src
        - /lib
             - /pages
