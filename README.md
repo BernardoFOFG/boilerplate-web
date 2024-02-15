@@ -18,7 +18,6 @@
        - /lib
             - /pages
 ### Exemplo:
-
 ```
 import { Flex } from '@chakra-ui/react';
 import { Layout } from '~/lib/layout';
